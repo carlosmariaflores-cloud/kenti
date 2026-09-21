@@ -12,4 +12,5 @@ authors:
   - family-names: Urueña
     given-names: Mariana
     affiliation: "Foconoa"
-# Al publicar una versión en Zenodo, agregar acá:  doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.22879183"
+repository-code: "https://github.com/carlosmariaflores-cloud/kenti"
