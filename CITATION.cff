@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "Si usás Kenti en un trabajo, citalo así."
 title: "Kenti Libre: cálculo de índices ecológicos para datos de monitoreo"
-version: "0.3"
+version: "0.3.1"
 date-released: "2026-09-21"
 license: MIT
 url: "https://kenti.com.ar"
@@ -12,5 +12,5 @@ authors:
   - family-names: Urueña
     given-names: Mariana
     affiliation: "Foconoa"
-doi: "10.5281/zenodo.22879183"
+doi: "10.5281/zenodo.22882918"
 repository-code: "https://github.com/carlosmariaflores-cloud/kenti"
