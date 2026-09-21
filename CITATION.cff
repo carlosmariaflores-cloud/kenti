@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Si usás Kenti en un trabajo, citalo así."
+title: "Kenti Libre: cálculo de índices ecológicos para datos de monitoreo"
+version: "0.3"
+date-released: "2026-09-21"
+license: MIT
+url: "https://kenti.com.ar"
+authors:
+  - family-names: Flores
+    given-names: Carlos María
+    affiliation: "Atoj S.A.S."
+  - family-names: Urueña
+    given-names: Mariana
+    affiliation: "Foconoa"
+# Al publicar una versión en Zenodo, agregar acá:  doi: "10.5281/zenodo.XXXXXXX"
